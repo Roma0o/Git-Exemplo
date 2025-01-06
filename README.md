@@ -1,20 +1,20 @@
-# Projeto de Testes com Git e GitHub
+# Git and GitHub Testing Project
 
-Este é um projeto simples criado para aprender e praticar os conceitos básicos de **Git** e **GitHub**. O objetivo principal é explorar comandos essenciais do Git e entender como funcionam repositórios locais e remotos.
+This is a simple project created to learn and practice the basic concepts of **Git** and **GitHub**. The main goal is to explore essential Git commands and understand how local and remote repositories work.
 
-## Objetivos do Projeto
+## Project Objectives
 
-- Familiarizar-se com comandos básicos do Git, como `git init`, `git add`, `git commit`, `git push`, entre outros.
-- Aprender a criar e gerenciar repositórios no GitHub.
-- Testar o fluxo de trabalho básico: 
-- Criação de commits.
-- Sincronização entre repositórios local e remoto.
-- Resolução de conflitos.
-- Entender como trabalhar com branches e pull requests.
+- Get familiar with basic Git commands like `git init`, `git add`, `git commit`, `git push`, and more.
+- Learn how to create and manage repositories on GitHub.
+- Test the basic workflow:
+- Commit creation.
+- Synchronization between local and remote repositories.
+- Conflict resolution.
+- Understand how to work with branches and pull requests.
 
-## Aprendizados
+## Learnings
 
-Durante este projeto, estou me concentrando em aprender:
-- Como usar Git de forma eficiente no terminal.
-- Como interagir com o GitHub para hospedar e compartilhar projetos.
-- Boas práticas de versionamento e colaboração.
+Throughout this project, I am focusing on:
+- How to use Git efficiently in the terminal.
+- How to interact with GitHub to host and share projects.
+- Best practices for versioning and collaboration.
